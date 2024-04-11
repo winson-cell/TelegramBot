@@ -1,0 +1,24 @@
+{
+  "name": "telegrambot_ever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winson-cell/TelegramBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winson-cell/TelegramBot/issues"
+  },
+  "homepage": "https://github.com/winson-cell/TelegramBot#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "evernode-js-client": "^0.6.44",
+    "node-telegram-bot-api": "^0.65.1"
+  }
+}
